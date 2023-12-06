@@ -3,6 +3,7 @@ import aws_cdk.assertions as assertions
 
 from merkle_tree_app.merkle_tree_app_stack import MerkleTreeAppStack
 
+
 # example tests. To run these tests, uncomment this file along with the example
 # resource in merkle_tree_app/merkle_tree_app_stack.py
 def test_sqs_queue_created():
